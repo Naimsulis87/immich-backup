@@ -1,0 +1,1 @@
+"# immich-backup"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Naimsulis87/immich-backup.gitgit push -u origin main
